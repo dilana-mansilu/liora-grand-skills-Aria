@@ -1,3 +1,8 @@
+---
+name: aria-approved-knowledge-base
+description: Approved FAQ answers, order hand-off rules, owner-approval triggers and CRM rules for Aria at LIORA GRAND (Pvt) Ltd. Use when answering customers or collecting orders.
+---
+
 # LIORA GRAND - Aria Memory (Approved Knowledge Base)
 
 ## 1. Business basics
